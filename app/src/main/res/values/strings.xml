@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FakeCall</string>
+
+    <string name="caller_id">Furqan Uni</string>
+    <string name="admob_banner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_interstitial">ca-app-pub-3940256099942523/63003324</string>
+</resources>
